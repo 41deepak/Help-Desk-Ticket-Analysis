@@ -1,0 +1,11 @@
+  1. Read the csv file and load data in dataframe
+  2. First few rows  (use head and tail)
+  3. Drop invalid rows
+  4. See size of data and understand data more (info, describe)
+  5. Find out the time duration of this data?
+  6. Find out first opened AHD
+  7. Who filed most AHD?
+  8. Who solved most AHD?
+  9. Which Region got the most AHD?
+  10. Find out AHD solved in shortest time and largest time
+  11. In which month most AHDs was raised
